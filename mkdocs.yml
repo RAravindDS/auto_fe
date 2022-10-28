@@ -3,6 +3,7 @@ site_name: auto_fe Documentation
 # defeine TOC or order of website-
 nav:
   - Home: index.md
+  - API: API.md
 
 site_author: RAravindan
 site_description: >-
