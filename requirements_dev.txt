@@ -8,4 +8,5 @@ flake8==5.0.4
 mypy==0.971
 pandas
 sklearn
+mkdocs-material
 -e .
